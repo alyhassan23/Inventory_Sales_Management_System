@@ -64,6 +64,5 @@ Inventory-Sales-Management-System/
 - Hassnain Sajid (Contributor)
 - Fahad Rehan (Contributor)
 - Shoaib Hamza (Contributor)
-- Kalsoom Butt (Contributor)
 
 
