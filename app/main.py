@@ -16,3 +16,4 @@ if __name__ == '__main__':
     login_root.geometry("400x300")
     LoginView(login_root, on_success_callback=open_dashboard)
     login_root.mainloop()
+    print("completed")

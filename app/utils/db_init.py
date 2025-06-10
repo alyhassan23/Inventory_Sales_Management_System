@@ -69,7 +69,7 @@ def initialize_database():
             type ENUM('IN', 'OUT'),
             date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
             FOREIGN KEY (product_id) REFERENCES products(id)
-        )
+        ) 
     """)
 
     conn.commit()
